@@ -132,7 +132,7 @@
         display: flex;
         justify-content: space-evenly;
         background-color: white;
-        width: 375px;
+        width: 378px;
         height: 45px;
         border-radius:2px;
     }
@@ -197,7 +197,7 @@
 
 
     .shop-section{
-        width: 375px;
+        width: 377px;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-evenly;
